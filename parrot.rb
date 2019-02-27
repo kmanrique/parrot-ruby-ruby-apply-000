@@ -2,13 +2,13 @@
 # returns the phrase
 
 
-def parrot(str)
-  str = "Squawk!"
-  puts "#{str}"
-  "#{str}"
-end
-
-#def parrot(string="Squawk!")
- #puts "#{string}"
- #"#{string}"
+#def parrot(str)
+ # str = "Squawk!"
+  #puts "#{str}"
+  #"#{str}"
 #end
+
+def parrot(string="Squawk!")
+ puts "#{string}"
+ "#{string}"
+end
