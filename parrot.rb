@@ -7,4 +7,4 @@ def parrot("Squawk!")
   return "Squawk!"
 end
 
-parrot
+puts parrot
