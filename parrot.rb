@@ -3,7 +3,7 @@
 
 
 def parrot(str)
-str = "Squawk!"
+  str = "Squawk!"
   puts "#{str}"
   "#{str}"
 end
