@@ -3,6 +3,6 @@
 
 str = "Squawk!"
 def parrot(str)
-  puts "Squawk!"
-  return "Squawk!"
+  puts str
+  return str
 end 
