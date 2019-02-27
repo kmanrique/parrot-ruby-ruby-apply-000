@@ -4,6 +4,6 @@
 str = "Squawk!"
 def parrot(str)
   puts "#{str}"
-  return "Squawk!"
+  return "#{str}"
 end
 
